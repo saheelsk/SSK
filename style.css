@@ -1,0 +1,14 @@
+.dark {
+  background-color: black;
+  color: aliceblue;
+}
+
+.light {
+  background-color: aliceblue;
+  color: black;
+}
+
+p{
+  text-align: center;
+  font-size: 30px;
+}
